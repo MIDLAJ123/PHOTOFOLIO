@@ -1,0 +1,47 @@
+.navbar-brand{
+    font-size: 32px;
+}
+.divs{
+    border-radius: 15px;
+    border: 1px solid;
+}
+.icons{
+    color: white;
+}
+.photo{
+    width: 40px;
+    height: 40px;
+}
+p{
+    color: rgba(255, 255, 255, 0.6);
+}
+#about{
+    color: rgb(152 152 152);
+}
+#about:hover{
+    color: white;
+}
+#gallary{
+    color: rgb(152 152 152);
+}
+#gallary:hover{
+    color: white;
+}
+#service{
+    color: rgb(152 152 152);
+}
+#service:hover{
+    color: white;
+}
+#contact{
+    color: rgb(152 152 152);
+}
+#contact:hover{
+    color: white;
+}
+.copyright{
+    color: white;
+}
+body{
+    background: black;
+}
